@@ -1,4 +1,4 @@
-![picture](black-textile-952670-2.jpg)
+![picture](full-frame-shot-of-snowflakes-326240.jpg)
 
 
 ### Hi there 👋
