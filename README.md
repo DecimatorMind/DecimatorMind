@@ -4,9 +4,9 @@
   "Hi..":alien:
   </h1>
 
-[![Twitter](https://img.shields.io/twitter/follow/PranjalBhardwj?label=Follow&logo=twitter&style=plastic)](https://twitter.com/PranjalBhardwj)
 [![GitHub followers](https://img.shields.io/github/followers/DecimatorMind?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/DecimatorMind/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Pranjal_Bhardwaj-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjalbhardwaj1/)](https://www.linkedin.com/in/pranjalbhardwaj1/)
+[![Twitter](https://img.shields.io/twitter/follow/PranjalBhardwj?label=Follow&logo=twitter&style=plastic)](https://twitter.com/PranjalBhardwj)
 ![Gmail](https://img.shields.io/badge/Gmail-DecimatorMind@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-DecimatorMind-blueviolet?style=plastic&logo=Discord&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-Back_up_nigge-red?style=plastic&logo=Reddit&logoColor=white&color=red)
