@@ -1,7 +1,7 @@
 <img src = https://github.com/PranjalBhardwaj11/PranjalBhardwaj11/blob/master/black-textile-952670-2.jpg>
 
 <h1 align="center">
-  "Hi..":alien:
+  Hi..:alien:
   </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/DecimatorMind?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/DecimatorMind/)
@@ -16,7 +16,7 @@
 
 
 <h1 align="center">
-  "Here is surprise for you !!!"
+  Here is surprise for you !!!
   </h1>
  
 ![](https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif)
