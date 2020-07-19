@@ -11,6 +11,14 @@
 ![Discord](https://img.shields.io/badge/Discord-DecimatorMind-blueviolet?style=plastic&logo=Discord&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-Back_up_nigge-red?style=plastic&logo=Reddit&logoColor=white&color=red)
 
+![](https://img.shields.io/badge/Language-Swift-orange)
+![](https://img.shields.io/badge/Language-Java-green)
+![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Language-C++-yellow)
+![](https://img.shields.io/badge/Language-C-yellow)
+![](https://img.shields.io/badge/Language-COBOL-darkGreen)
+
+
 ![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=DecimatorMind&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
