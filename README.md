@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/PranjalBhardwj?label=Follow&logo=twitter&style=plastic)](https://twitter.com/PranjalBhardwj)
 ![Gmail](https://img.shields.io/badge/Gmail-DecimatorMind@gmail.com-red?style=plastic&logo=Gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-DecimatorMind-blueviolet?style=plastic&logo=Discord&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-Back_up_nigge-red?style=plastic&logo=Reddit&logoColor=white&color=red)
+![Reddit](https://img.shields.io/badge/Reddit-Backupnigge-red?style=plastic&logo=Reddit&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/Language-Swift-orange)
 ![](https://img.shields.io/badge/Language-Java-green)
