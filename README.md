@@ -13,14 +13,14 @@
 
 ![](https://img.shields.io/badge/Language-Swift-orange)
 ![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Language-Python-blue)
+![](https://img.shields.io/badge/Language-Python3-blue)
 ![](https://img.shields.io/badge/Language-C++-yellow)
 ![](https://img.shields.io/badge/Language-C-yellow)
 ![](https://img.shields.io/badge/Language-COBOL-darkGreen)
 
 
 ![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=DecimatorMind&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DecimatorMind&theme=tokyonight&hide_langs_below=0)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DecimatorMind&theme=tokyonight&hide_langs_below=0)
 
 
 
