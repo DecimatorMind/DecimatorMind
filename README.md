@@ -21,11 +21,3 @@
 
 ![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=DecimatorMind&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DecimatorMind&theme=tokyonight&hide_langs_below=0)
-
-
-
-<h1 align="center">
-  Here is surprise for you !!!
-  </h1>
- 
-![](https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif)
